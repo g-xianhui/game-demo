@@ -1,5 +1,5 @@
 package.cpath = "luaclib/?.so"
-package.path = "lualib/?.lua;code/?.lua"
+package.path = "lualib/?.lua;game-demo/?.lua"
 
 require "client_login"
 
